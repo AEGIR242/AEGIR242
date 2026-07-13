@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2B2&height=200&section=header&text=AEGIR&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Dise%C3%B1ador%20Interactivo%20%C2%B7%20Technical%20Artist%20%C2%B7%20Unity%20Developer&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2B2&height=200&section=header&text=AEGIR&fontSize=70&fontColor=00E5D8&fontAlignY=38&desc=Dise%C3%B1ador%20Interactivo%20%C2%B7%20Technical%20Artist%20%C2%B7%20Unity%20Developer&descAlignY=58&descSize=16&descColor=FFFFFF)
 
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5D8&center=true&vCenter=true&width=600&lines=Camilo+Rios+Arrieta+(AEGIR242);Dise%C3%B1ador+Interactivo;Technical+Artist;Unity+%7C+C%23+%7C+Shader+Graph+%7C+VR%2FMR)
 
