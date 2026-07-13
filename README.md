@@ -1,5 +1,7 @@
 <div align="center">
 
+# AEGIR
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2B2&height=200&section=header&text=AEGIR&fontSize=80&fontColor=FFFFFF&fontAlignY=32&desc=Dise%C3%B1ador%20Interactivo%20%C2%B7%20Technical%20Artist%20%C2%B7%20Unity%20Developer&descAlignY=52&descSize=16)
 
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5D8&center=true&vCenter=true&width=600&lines=Camilo+Rios+Arrieta+(AEGIR242);Dise%C3%B1ador+Interactivo;Technical+Artist;Unity+%7C+C%23+%7C+Shader+Graph+%7C+VR%2FMR)
