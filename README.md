@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hola, soy Camilo Rios Arrieta (AEGIR242)
 
-<!--
-**AEGIR242/AEGIR242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Artist & Desarrollador de Videojuegos** — Unity · C# · Shader Graph · VR/MR
 
-Here are some ideas to get you started:
+Diseñador Interactivo egresado de la Universidad EAFIT (Medellín, Colombia), enfocado en crear experiencias interactivas, sistemas visuales en tiempo real y contenido audiovisual mediante programación, diseño y arte técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Stack técnico
+- Unity, C#, Shader Graph
+- Desarrollo VR / MR
+- Python, Java
+- Git, GitHub
+
+### 🎨 Stack creativo
+- Diseño Interactivo y Diseño de Juegos
+- Technical Art
+- Animación 2D y 3D, Modelado 3D, Pixel Art
+- Edición de video y audio, Motion Design, Narrativa visual
+
+### 🛠️ Software
+
+Unity · Blender · Autodesk Maya · Adobe Premiere · After Effects · Audition · Photoshop · Illustrator
+
+### 🎓 Educación
+Universidad EAFIT — Diseño Interactivo, Medellín, Colombia
+
+### 📩 Contacto
+- Portafolio: https://aegir-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/camilo-ríos-arrieta
